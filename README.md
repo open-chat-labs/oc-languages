@@ -1,4 +1,8 @@
-# oc-languages
+# This repo is now redundant
+
+Now that [OpenChat](https://github.com/open-ic/open-chat) is open sourced any community language updates can be made via pull request to the main repo directly.
+
+## oc-languages
 
 This repo is intended to allow the collaborative translation of [OpenChat](https://oc.app) into other languages.
 
