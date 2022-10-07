@@ -1,6 +1,6 @@
 # This repo is now redundant
 
-Now that [OpenChat](https://github.com/open-ic/open-chat) is open sourced any community language updates can be made via pull request to the main repo directly.
+Now that [OpenChat](https://github.com/open-ic/open-chat/tree/master/frontend/src/i18n) is open sourced any community language updates can be made via pull request to the main repo directly.
 
 ## oc-languages
 
